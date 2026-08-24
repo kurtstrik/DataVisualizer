@@ -1,3 +1,6 @@
+> [!CAUTION]
+The source link for the data visualization is outdated but a different data source & implementation is in progress.
+
 This application reads table information from the respective TU webpage which hosts various statistical data in table form. <br>
 It then processes this data into a csv file (comma seperated value) for readability and formatting reasons. <br>
 Finally the read data from the csv file is visualized in a presentable manner with charts and plots.
